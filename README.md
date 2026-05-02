@@ -8,7 +8,7 @@ Organizar minha evolução no curso, praticar os principais conceitos de Python 
 
 ## Sobre o curso
 
-Curso: **Análise de Dados | Meus primeiros passos em Python**  
+Curso: **Análise de Dados**  
 Instituição: **Programaria**  
 Turma: **Março de 2026**
 
